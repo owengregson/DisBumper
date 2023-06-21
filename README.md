@@ -10,3 +10,5 @@ Usage guide:
 - The bot will begin bumping until either the token invalidates or you cancel the script.
 
 Happy bumping!
+
+PSA: My variable names are really cryptic in this script; I didn't have time to make it look neat. Most of the crazy variables and randomization are to bypass detection from Discord and the bot service you are using to bump your server.
